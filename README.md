@@ -1,16 +1,16 @@
 TYPING LESSONS FOR THE PURE OF HEART:
 -
->'Teacher' writes words (not finite) in a text file
->Compiles it
->Student gets the compiled executable
->Types out words and can redo it as many times as he/she likes
->Results are generated based on the student's capabilities
->Can be repeated with different, less, or more words by the teacher
->Problem is, Student can edit the result's text file, as its unencrypted
->Therefore, the requirements for the program to run, are:
->A pure heart
->Windows
->Future objectives: Encrypt the final file?
+\>'Teacher' writes words (not finite) in a text file
+\>Compiles it
+\>Student gets the compiled executable
+\>Types out words and can redo it as many times as he/she likes
+\>Results are generated based on the student's capabilities
+\>Can be repeated with different, less, or more words by the teacher
+\>Problem is, Student can edit the result's text file, as its unencrypted
+\>Therefore, the requirements for the program to run, are:
+\>A pure heart
+\>Windows
+\>Future objectives: Encrypt the final file?
 
 OPERATIONAL INSTRUCTIONS:
 -
