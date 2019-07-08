@@ -34,12 +34,3 @@ Step 2: compile and run code
 Step 3: Results saved in "USER_PROGRESS_DATA.txt"
 
 
-MEMBERS AND CONTRIBUTORS:
--
-Khalid Shawon
-
-Anika Tahsin
-
-Saba Ahmed Momo
-
-Ishraq Hasan
