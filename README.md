@@ -16,7 +16,7 @@ TYPING LESSONS FOR THE PURE OF HEART:
 
 \>Therefore, the requirements for the program to run, are:
 
-\>A pure heart
+\>A pure heart (because this has literally no security measure whatsoever lol)
 
 \>Windows
 
