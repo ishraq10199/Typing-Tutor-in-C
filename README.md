@@ -1,4 +1,4 @@
-TYPING TUTOR:
+TYPING TUTOR
 -
 \>'Teacher' writes words (not finite) in a text file
 
@@ -23,7 +23,7 @@ TYPING TUTOR:
 \>Future objectives: Encrypt the final file?
 
 
-OPERATIONAL INSTRUCTIONS:
+BUILD AND RUN
 -
 Step 0: Clone from src
 
