@@ -6,7 +6,7 @@ TYPING TUTOR:
 
 \>Student gets the compiled executable
 
-\>Types out words and can redo it as many times as he/she likes
+\>Types out words and can redo it as many times as they like
 
 \>Results are generated based on the student's capabilities
 
