@@ -1,4 +1,4 @@
-TYPING LESSONS FOR THE PURE OF HEART:
+TYPING TUTOR:
 -
 \>'Teacher' writes words (not finite) in a text file
 
